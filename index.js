@@ -23,5 +23,7 @@ function makeInt(n){
   parseInt(n)
   return (n)
 }
-makeInt('0x2328',10)
+function makeInt(n){
+  parseInt('0x2328',10)
+}
 
