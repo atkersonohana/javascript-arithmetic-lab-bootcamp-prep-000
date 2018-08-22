@@ -23,6 +23,4 @@ function makeInt(n){
   parseInt(n, 10)
   return (n)
 }
-function makeInt(n){
-parseFloat(10)
-}
+function makeInt(n,10)
