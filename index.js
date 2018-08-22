@@ -23,7 +23,5 @@ function makeInt(n){
   parseInt(n)
   return (n)
 }
-function makeInt(n){
-  parseInt('0x2328',10)
-}
+console.log(n)
 
