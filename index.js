@@ -23,5 +23,5 @@ function makeInt(n){
   parseInt(n)
   return (n)
 }
-
+makeInt('n',10)
 
